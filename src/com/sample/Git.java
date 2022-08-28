@@ -6,8 +6,11 @@ public class Git {
 		
 		System.out.println("trial");
 		
+		System.out.println("trial 1");
+		
 		System.out.println("Conflict Error");
 
-	}
 
+	}
+	
 }
